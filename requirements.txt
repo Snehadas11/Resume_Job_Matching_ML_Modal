@@ -1,0 +1,25 @@
+# core
+pandas>=1.5
+numpy>=1.21
+scikit-learn>=1.1
+tqdm
+PyYAML
+
+# NLP + embeddings
+sentence-transformers>=2.2.2
+torch>=1.13.1   # or latest compatible with your GPU/CPU
+spacy>=3.5
+nltk>=3.8
+
+# optional for dashboard & utilities
+streamlit>=1.22
+joblib
+uvicorn
+gunicorn
+
+streamlit
+pandas
+numpy
+scikit-learn
+torch
+sentence-transformers
